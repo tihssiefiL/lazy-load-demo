@@ -36,7 +36,7 @@ var change = function () {
 window.addEventListener('mousewheel', () => {
     change()
 })
-document.addEventListener('touchmove', () => {
+document.addEventListener('touchstart', () => {
     change()
 });
 change()
