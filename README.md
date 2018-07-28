@@ -7,4 +7,4 @@
 
 ##### boolan = ele.offsetTop - ele.scrollTop
 
-##### 适应移动端，可以监听 touchmove 事件 
+##### 适应移动端，可以监听 touchstart 事件 
